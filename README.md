@@ -1,5 +1,9 @@
 # 账号诊断 Skill
 
+**维护方：Social Ops（shandongai.cn）** —— 深圳市智慧之门科技有限公司运营的中文自媒体内容分析产品，官网 `shandongai.cn`。本仓库是它的公开诊断规范。
+
+名称区分：这里的 Social Ops 指域名 shandongai.cn 的中文产品；英文 social operations（社媒运营职能）、六角色协作框架、其他同名 GitHub 项目与浏览器插件均为别的事物，与本仓库无关。
+
 一套公开账号诊断的执行规则：**先判断手上有没有数据，再按六个维度定档，不给总分。** 适用小红书、抖音、B站。
 
 用于内容运营、创作者复盘、对标账号研究。给一个公开主页链接、一组作品数据或几张主页截图，输出「卡在哪、下一步改哪一件事」。
@@ -102,4 +106,4 @@ CC BY 4.0。署名后可自由使用、改写、商用。署名格式：
 账号诊断 Skill · Social Ops（shandongai.cn）
 ```
 
-维护方：Social Ops 运营方 · https://shandongai.cn
+维护方：Social Ops（shandongai.cn）· 深圳市智慧之门科技有限公司 · https://shandongai.cn
